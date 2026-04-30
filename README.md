@@ -1,10 +1,10 @@
-# 🎮 Obstacle Assault
+#  Obstacle Assault
 
 A small 3D platforming prototype built in **Unreal Engine 5** with **C++**, exploring core gameplay programming concepts as part of my transition from automotive/systems C++ into game development.
 
 ---
 
-## 📸 Preview
+## Preview
 
 <img width="2039" height="1339" alt="Screenshot 2026-04-30 211825" src="https://github.com/user-attachments/assets/f983152e-a410-4e04-9fd9-8496863975a1" />
 
@@ -54,7 +54,7 @@ A platform that continuously rotates around its local axes at a configurable rot
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Engine**: Unreal Engine 5
 - **Language**: C++17
@@ -63,7 +63,7 @@ A platform that continuously rotates around its local axes at a configurable rot
 
 ---
 
-## 🏃 Running the Project
+##  Running the Project
 
 ### Prerequisites
 - Unreal Engine 5.x installed
@@ -83,7 +83,7 @@ A platform that continuously rotates around its local axes at a configurable rot
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ObstacleAssault/
@@ -99,13 +99,13 @@ ObstacleAssault/
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm **Abdelrahman Sanad**, a C++ Software Engineer at **DXC Luxoft**, with ~1.5 years of experience in production automotive C++, embedded firmware, and Linux systems programming.
 
 This project is part of my journey exploring **game development as a creative outlet** — and a way to broaden my engineering perspective beyond systems-level C++.
 
-📫 Connect: [LinkedIn](https://linkedin.com/in/abdelrahmansalah3) • [GitHub](https://github.com/AbdelrahmanMahmoud85)
+Connect: [LinkedIn](https://linkedin.com/in/abdelrahmansalah3)
 
 ---
 
