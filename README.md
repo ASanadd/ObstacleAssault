@@ -109,10 +109,10 @@ Connect: [LinkedIn](https://linkedin.com/in/abdelrahmansalah3)
 
 ---
 
-## 📜 License
+## License
 
 This project is open for educational and reference purposes. Feel free to explore, fork, or learn from it.
 
 ---
 
-⭐ If you found this useful or interesting, a star is appreciated!
+If you found this useful or interesting, a star is appreciated!
